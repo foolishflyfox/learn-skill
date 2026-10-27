@@ -8,8 +8,6 @@
 
 ## 一、最值得学习的 5 个开源项目
 
-[Agent Skills Overview - Agent Skills](https://images.openai.com/static-rsc-4/kpu3kxDJkX3O3kMhj4fJQoEUeQO6pDD9W-8joRZeayE-FC_lThBvUz_am-BMClB9_JU9c38qlrN9LgM-J4knWKCFy4W0v1OAO6Bxd1iir4TLDI9D2ziTs2ERMmEhOdkVCqMOBIYT05Di4z7UK7V8qyTN3ue-NSN24bzsHrktsvA?purpose=inline)
-
 1\. Agent Skills — 官方规范
 
 适合：从零开始，理解 Skill 标准
@@ -17,8 +15,6 @@
 这是首选学习资料。详细介绍 `SKILL.md`、YAML 元数据、目录结构，以及按需加载（Progressive Disclosure）机制。
 
 [官方文档](https://agentskills.io?utm_source=chatgpt.com) · [GitHub 源码](https://github.com/agentskills/agentskills?utm_source=chatgpt.com)
-
-[Claude](https://images.openai.com/static-rsc-4/cLHBfiXuOV35_PSb5wC1jXivsAXbOR_8j6QIuMUVJNmHhvqDTZSAjip3DZXEZE8rrigO3zrBPXPTm3OPFqtXG1oYbfxtfR2epfKwRiaR-r0auw26KWwnnPiRgtOfu6qqeScD6KjrINNkb8STcXPBIHcixXdk1xpiKuwC8UdBT_8?purpose=inline)
 
 ---
 
